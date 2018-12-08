@@ -5,4 +5,5 @@ const folder = `${__dirname}/images`;
 
 const files = fs.readdirSync(folder);
 
+
 module.exports = files;
