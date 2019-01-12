@@ -16,6 +16,7 @@
     "eslint-plugin-react": "^7.11.1"
   },
   "dependencies": {
+    "gm": "^1.23.1",
     "sharp": "^0.21.0"
   }
 }
